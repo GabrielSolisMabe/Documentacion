@@ -4,7 +4,7 @@
 4.	Deliverables		1	PINTOR
 5.	Development methodology		2
 6.	Estimates		5	GABRIEL
-7.	Planning		2	GABRIEL
+7.	Planning		2	Planning_20190405.xlsx		GABRIEL
 8.	Solving Problem Strategy	4 AMEF-DFMEA_20190405.xlsx 	PINTOR
 9.	Design			2/2 DIAGRAM-SoftwareDesignDocument_20190405.docx  	PINTOR/GABRIEL
 9.1.	Standards		3 SoftwareStandards_20190405.docx	GABRIEL
