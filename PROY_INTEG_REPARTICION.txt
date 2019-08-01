@@ -13,12 +13,12 @@
 
 
 10.	Testing			
-10.1.	Verification strategy (black box test)		6 BlackboxTest_baseline.docx / RESULTS
-10.2.	White box strategy				6 WhiteboxTest_baseline.docx / RESULTS
-10.3.	Cyclomatic Complexity Redundance index(opt)	3 CCRI_20190405.docx
-11.	Release			2 
-11.1.	Software Development Folder	1
-11.2.	Integration Tests Strategy	6 IntegrationTesting_baseline.docx / RESULTS
-11.3.	Validation Testing / Functional Testing		5 ValidationTesting_baseline.docx / RESULTS
-11.4.	Throughput and Flash and RAM measurement	4 ThroughputRAMFlash_procedure
-12.	Results			3
+10.1.	Verification strategy (black box test)		6 BlackboxTest_baseline.docx / RESULTS	PINTOR
+10.2.	White box strategy				6 WhiteboxTest_baseline.docx / RESULTS	PINTOR
+10.3.	Cyclomatic Complexity Redundance index(opt)	3 CCRI_20190405.docx	PINTOR/GABRIEL
+11.	Release			2 	PINTOR
+11.1.	Software Development Folder	1	GABRIEL
+11.2.	Integration Tests Strategy	6 IntegrationTesting_baseline.docx / RESULTS	GABRIEL
+11.3.	Validation Testing / Functional Testing		5 ValidationTesting_baseline.docx / RESULTS	GABRIEL
+11.4.	Throughput and Flash and RAM measurement	4 ThroughputRAMFlash_procedure	PINTOR
+12.	Results			3	GABRIEL
